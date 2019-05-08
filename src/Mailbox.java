@@ -54,7 +54,7 @@ public class Mailbox {
             
         }
         if ( p > l){
-                System.out.println("la perosna con mas correos recividos es");
+                System.out.println("la persona con mas correos recividos es");
                 System.out.println(p1.getNombre());
                 System.out.println("con una cantidad de");
                 System.out.println(p);
