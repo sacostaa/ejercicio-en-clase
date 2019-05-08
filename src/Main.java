@@ -37,8 +37,9 @@ public class Main {
         String c5 = d.nextLine();
         System.out.println(m1.crearmail(p1, p2, c5));
         
-
+        System.out.println("");
         System.out.println(m1.consultarmail(p1));
+        System.out.println("");
         System.out.println(m1.mascorreosrecibidos(p1, p2));
        
     }
